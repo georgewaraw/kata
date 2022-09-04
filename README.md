@@ -2,7 +2,7 @@
 
 is a trippy action game made with react-three-fiber and legally acquired assets. It's very magenta!
 
-**It plays on desktop and mobile at https://georgewaraw.github.io/kata/**
+**Play it on desktop or mobile at https://georgewaraw.github.io/kata/**
 
 **or watch it at https://youtu.be/qaNltHlMbrk**
 
