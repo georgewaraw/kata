@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/kata/static/js/main.fe210e2b.js",
+    "main.js": "/kata/static/js/main.393a1c4b.js",
     "static/media/girl_idle.fbx": "/kata/static/media/girl_idle.8c85b823594856575937.fbx",
     "static/media/monster_run.fbx": "/kata/static/media/monster_run.70fb429d5b7de920d6cb.fbx",
     "static/media/girl_attack.fbx": "/kata/static/media/girl_attack.f6a2b677c1ff7baab845.fbx",
@@ -10,9 +10,9 @@
     "static/media/girl_lunge.mp3": "/kata/static/media/girl_lunge.4d3c8943685d1f55bad2.mp3",
     "static/media/monster_grunt.mp3": "/kata/static/media/monster_grunt.34d03bb48d880f112932.mp3",
     "index.html": "/kata/index.html",
-    "main.fe210e2b.js.map": "/kata/static/js/main.fe210e2b.js.map"
+    "main.393a1c4b.js.map": "/kata/static/js/main.393a1c4b.js.map"
   },
   "entrypoints": [
-    "static/js/main.fe210e2b.js"
+    "static/js/main.393a1c4b.js"
   ]
 }
