@@ -4,6 +4,8 @@ is a trippy action game made with react-three-fiber and legally acquired assets.
 
 **It plays on desktop and mobile at https://georgewaraw.github.io/kata/**
 
+**or watch it at https://youtu.be/qaNltHlMbrk**
+
 *Slay monsters to earn points! Let them pass you to lose points!*
 
 #### CONTROLS
